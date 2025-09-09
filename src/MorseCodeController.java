@@ -13,7 +13,7 @@ public class MorseCodeController {
 
     public MorseCodeController(){
         morseCodeMap = new HashMap<>();
-
+ 
         // uppercase
         morseCodeMap.put('A', ".-");
         morseCodeMap.put('B', "-...");
