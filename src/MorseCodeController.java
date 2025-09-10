@@ -1,7 +1,7 @@
 import javax.sound.sampled.*;
 import java.util.HashMap;
 
-// this class will handle the logic for our GUI
+// this class will handle the logic for our GUI 
 public class MorseCodeController {   
     // we'll use a hashmap to translate user input into morse code 
     // a hashmap is a data structure that stores key/value pairs
