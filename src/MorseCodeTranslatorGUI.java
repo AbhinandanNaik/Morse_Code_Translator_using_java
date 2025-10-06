@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener; 
 import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
+import java.awt.event.KeyListener; 
 
 // key listener is used here so that I can listen to key presses (typing)
 public class MorseCodeTranslatorGUI extends JFrame implements KeyListener { 
